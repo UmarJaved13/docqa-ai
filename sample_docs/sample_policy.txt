@@ -1,0 +1,16 @@
+Acme Corp Remote Work Policy (Sample Document)
+
+1. Eligibility
+All full-time employees who have completed 90 days of employment are eligible to apply for remote work arrangements.
+
+2. Work Hours
+Remote employees must be available during core hours, 10:00 AM to 3:00 PM in their local time zone, and must log total hours worked each day.
+
+3. Equipment
+Acme Corp provides a laptop and a one-time $300 stipend for home office setup. Employees are responsible for maintaining a secure internet connection.
+
+4. Communication
+Remote employees must attend the weekly team sync on Mondays at 9:00 AM and respond to messages within 4 business hours during work hours.
+
+5. Review Period
+Remote work arrangements are reviewed every 6 months by the employee's direct manager.
